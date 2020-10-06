@@ -1,0 +1,151 @@
+{
+  "voters": [
+    {
+      "id": 1,
+      "firstName": "Danaa",
+      "lastName": "Scullys",
+      "address": "1213 37th Place",
+      "city": "Bethesda",
+      "birthDate": "2/23/1964",
+      "email": "scully@fbi.gov",
+      "phone": "208-420-8080"
+    },
+    {
+      "id": 2,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "address": "1213 38th Place",
+      "city": "San Diego",
+      "birthDate": "2/23/1990",
+      "email": "tom@fbi.gov",
+      "phone": "208-420-8080"
+    },
+    {
+      "id": 3,
+      "firstName": "God",
+      "lastName": "Zilla",
+      "address": "1 Ocean Way",
+      "city": "San Diego",
+      "birthDate": "2/20/1000",
+      "email": "zilla@dino.gods",
+      "phone": "303-609-1939"
+    },
+    {
+      "id": 4,
+      "firstName": "Peyton",
+      "lastName": "Manning",
+      "address": "290 Eagle Way",
+      "city": "Denver",
+      "birthDate": "1/1/1970",
+      "email": "theman@broncos.org",
+      "phone": "720-109-9308"
+    },
+    {
+      "id": 5,
+      "firstName": "Drake",
+      "lastName": "OVO",
+      "address": "90 Diamond Plaza",
+      "city": "Toronto",
+      "birthDate": "6/09/1986",
+      "email": "drake@ovo.com",
+      "phone": "802-291-2930"
+    },
+    {
+      "id": 6,
+      "firstName": "Tony",
+      "lastName": "Hawk",
+      "address": "190 Ocean Rd",
+      "city": "San Diego",
+      "birthDate": "1/23/1969",
+      "email": "tonyhawk@hawk.org",
+      "phone": "858-420-0101"
+    },
+    {
+      "id": 7,
+      "firstName": "Donald",
+      "lastName": "Trump",
+      "address": "1213 80th Place",
+      "city": "DC",
+      "birthDate": "2/21/1919",
+      "email": "trump@fbi.gov",
+      "phone": "201-410-2901"
+    }
+  ],
+  "elections": [
+    {
+      "id": 1,
+      "name": "X-Files Monsters",
+      "year": 2020,
+      "description": "The X-Files have many great monsters, vote on the ones which you find terrifying",
+      "questions": [
+        {
+          "id": 0,
+          "content": "Flukeman is the most terrifying X-Files monster",
+          "yes": 3,
+          "no": 0
+        },
+        {
+          "id": 1,
+          "content": "Eugene Victor Tooms is the most terrifying X-Files monster",
+          "yes": 3,
+          "no": 2
+        },
+        {
+          "id": 2,
+          "content": "Mrs. Peacock is the most terrifying X-Files monster",
+          "yes": 2,
+          "no": 2
+        }
+      ],
+      "voterIds": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "name": "X-Files Villains",
+      "year": 2020,
+      "description": "Some people think members of The Syndicate are actually good, do you?",
+      "questions": [
+        {
+          "id": 0,
+          "content": "Cigarette Smoking Man is an evil villain in X-Files",
+          "yes": 0,
+          "no": 0
+        },
+        {
+          "id": 1,
+          "content": "Alex Krycek is an evil villain in X-Files",
+          "yes": 0,
+          "no": 0
+        },
+        {
+          "id": 2,
+          "content": "Mr. X is an evil villain in X-Files",
+          "yes": 0,
+          "no": 0
+        }
+      ],
+      "voterIds": []
+    },
+    {
+      "name": "asdsdf",
+      "year": 2020,
+      "description": "sdfsdf",
+      "questions": [
+        {
+          "id": 0,
+          "content": "sdfsdf",
+          "yes": 0,
+          "no": 0
+        },
+        {
+          "id": 1,
+          "content": "",
+          "yes": 0,
+          "no": 0
+        }
+      ],
+      "voterIds": [],
+      "id": 3
+    }
+  ]
+}
